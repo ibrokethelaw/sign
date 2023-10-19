@@ -1,0 +1,188 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      .signature {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        text-align: center;
+      }
+
+      .signature img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+ 
+</html>
+
+<body contenteditable="true" style="font-family: 'Avenir Next', Sans-serif, Helvetica; font-size: 12px;">
+
+ 
+        <font face="Avenir Next" color="#001e57" style="font-size: 13px;">
+          <b>ΚΩΝΣΤΑΝΤΙΝΟΣ Γ. ΔΑΒΙΟΣ ΦΙΛΑΡΕΤΟΣ</b></font><font face="Avenir Next" color="#232323" style="font-size: 15px;"> &nbsp;| &nbsp;</font><font face="Avenir Next" color="#001e57" style="font-size: 13px;"><b>KONSTANTINOS G. DAVIOS FILARETOS</b></font>
+    
+        <span class="brmedium"></span>
+  <font face="Avenir Next" color="#2e2e2e" style="font-size: 13px;">Managing Partner at <b>DΛVIOS AND PARTNERS LAW FIRM</b></font>
+<span class="brlarge"></span>
+<font face="Avenir Next"><font color="#232323" style="font-size: 12px;">ATHENS</font>&nbsp;&nbsp;<font face="Avenir Next"><font color="#232323" style="font-size: 14px;">|</font>&nbsp;&nbsp;<font face="Avenir Next"><font color="#232323" style="font-size: 12px;">SYROS</font>&nbsp;&nbsp;<font face="Avenir Next"><font color="#232323" style="font-size: 14px;">|</font>&nbsp;&nbsp;<font face="Avenir Next"><font color="#232323" style="font-size: 12px;">NEW YORK</font>
+       <span class="brlarge"></span>
+
+
+
+<font face="Avenir Next" color="#696969" style="font-size: 12px;">Δικηγόρος, ΠΜΣ (2), MSc C. in Cyber Security (University of Derby), Υπ. Διδάκτωρ Ποινικού Δικαίου</font>&nbsp;&nbsp;<font face="Avenir Next"><font color="#232323" style="font-size: 13px;">|</font>&nbsp;&nbsp;<font face="Avenir Next" color="#696969" style="font-size: 12px;"><b>Lawyer, LL.M. (2), MSc C. in Cyber Security (University of Derby), PhD C. in Criminal Law</b></font>
+
+  <font face="Avenir Next" color="#696969" style="font-size: 12px;"><span class="br"></span>Πιστοποιημένος Υπεύθυνος Προστασίας Δεδομένων</font> &nbsp;<font face="Avenir Next"><font color="#232323" style="font-size: 13px;">|</font>&nbsp;&nbsp;<font face="Avenir Next" color="#696969" style="font-size: 12px;"><b>Certified Data Protection Officer (DPO) Executive</b> (ISO / IEC 17024 / TÜV Austria Hellas)</font>
+
+<font face="Avenir Next" color="#696969" style="font-size: 12px;"><span class="br"></span><b>Certified Data Protection Officer (DPO) Skilled</b> (University of Derby)</font>
+             
+<html>
+<head>
+<style>
+a:link {
+  color: #001e57;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #551A8B;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #0044A7;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+</style>
+<style type="text/css">
+.br {
+    display: block;
+    margin-bottom: 0.4em;
+}
+
+.brmedium {
+    display: block;
+    margin-bottom: 0.7em;
+}
+
+.brlarge {
+    display: block;
+    margin-bottom: 2em;
+}
+</style>
+</head>
+  
+  
+  <html>
+<head>
+<style>
+
+.address-link {
+  color: #001e57; 
+  text-decoration: none;
+.address-link:hover {
+  color: #0047A7;
+  text-decoration: underline; 
+}
+</style>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.address-link {
+  color: #001e57
+  font-family: 'Avenir Next', sans-serif;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.address-link:hover {
+  color: #0047A7; /* Hover color for all links */
+  font-family: 'Avenir Next', sans-serif;
+  font-size: 12px;
+  text-decoration: none; 
+}
+</style>
+</head>  
+<body>
+
+    
+    <span class="brlarge"></span>
+        <font face="Avenir Next" color="#0F0F0F"><span style="caret-color: rgb(255, 255, 255); font-size: 12px;"><b>A&nbsp; </b></span><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">|</font><a <body>
+       <a href="https://maps.apple.com/?address=Nirvana%2012,%20144%2051%20Metamorfosi,%20Greece&ll=38.059142,23.752703&q=Nirvana%2012&t=m" class="address-link address1">12 P. Nirvana St., Attica, 144 51&nbsp;</a><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">&nbsp;| &nbsp;</font><a href="http://maps.apple.com/?address=1%20Stat.%20Mastora%20St.%2C%20Syros%2C%20841%2000" class="address-link address2">1 Stat. Mastora St., Syros, 841 00</a><font color="#0F0F0F" style="font-size: 12px;">&nbsp; | &nbsp;</font><a href="http://maps.apple.com/?address=31%20W%2034th%20St.%2C%20New%20York%2C%20NY%2C%20100%2001" class="address-link address3">31 W 34th St., New York, NY, 100 01</a>
+
+    <div dir="auto" style="color: rgb(39, 39, 40); font-family: Helvetica; font-size: 12px;">
+        <font face="Avenir Next" color="#464646"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"></span></font>
+    </div>
+
+    <div dir="auto" style="color: rgb(39, 39, 40); font-family: Helvetica; font-size: 12px;">
+        <font face="Avenir Next" color="#464646"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;">
+            <span class="brmedium"></span>
+          <b>P</b>&nbsp;&nbsp;<font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">|</font>&nbsp;</b>&nbsp;<span dir="ltr"><span dir="ltr"><a href="tel:+302110138169">+30 2110 138 169</a></span></span></span></font>
+    </div>
+  <span class="br"></span>
+    <div dir="auto" style="color: rgb(39, 39, 40); font-family: Helvetica; font-size: 12px;">
+        <font face="Avenir Next">
+            <font color="#464646"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"><b>M</b>&nbsp;&nbsp;<font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">|</font>&nbsp;</span></font><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"> <font color="#464646"><span dir="ltr"><span dir="ltr"><a href="tel:+306980999992">+30 6980 999 992</a><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">&nbsp;&nbsp;|&nbsp;&nbsp;</font><a href="tel:+1(332)2224767">+1 (332) 222 4767</a><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">&nbsp;&nbsp;|&nbsp;</font><font color="#464646"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;">&nbsp;</span><a href="tel:+306983092158" style="color:#950A0A; text-decoration: none;" onmouseover="this.style.color='#C22A2A';" onmouseout="this.style.color='#950A0A';">+30 6983 092 158</a>
+          
+          
+       
+    <font face="Avenir Next" color="#B32828">
+        <span style="caret-color: rgb(255, 255, 255); font-size: 12px;" class="emergency-phone"><i>please use this line in case of emergency</i>
+        </span>
+    </font>
+
+    <span class="brmedium"></span>
+
+    <div dir="auto" style="color: rgb(39, 39, 40); font-family: Helvetica; font-size: 12px;">
+        <font face="Avenir Next" color="#464646"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"><b>E</b>&nbsp;&nbsp;</span><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">|</font>&nbsp;</span></font><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"> <font color="#464646"><span dir="ltr"><span dir="ltr"><a href="mailto:info@davioslawfirm.com">info@davioslawfirm.com</a></span>
+  <span class="br"></span>
+    <div dir="auto" style="color: rgb(39, 39, 40); font-family: Helvetica; font-size: 12px;">
+        <font face="Avenir Next" color="#464646"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"><b>W</b>&nbsp;&nbsp;</span><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">|</font>&nbsp;</span></font><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"> <font color="#464646"><span dir="ltr"><span dir="ltr"><a href="http://www.davioslawfirm.com/">www.davioslawfirm.com</a>&nbsp;&nbsp;</span><font face="Avenir Next"><font color="#0F0F0F" style="font-size: 12px;">|</font>&nbsp;&nbsp;</span></font><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"> <font color="#464646"><span dir="ltr"><span dir="ltr"> <a href="http://www.bio.site/cdf">bio.site</a></span></font>
+  <span class="br"></span>
+    <div dir="auto" style="font-family: Helvetica; font-size: 12px;">
+        <font face="Avenir Next">
+            <font style="color: rgb(39, 39, 40); font-size: 12px;"><span style="caret-color: rgb(232, 232, 232); font-size: 12px;"><b>LdIn</b>&nbsp; |&nbsp; </span></font><font color="#464646"><span style="caret-color: rgb(232, 232, 232);"><a href="https://www.linkedin.com/in/constantinosdaviosfilaretos">www.linkedin.com/in/cdfgr</a></span></font>
+        </font>
+    </div>
+        <span class="brlarge"></span>
+<hr>
+             <span class="brlarge"></span>
+  
+<style>
+p.small {
+  line-height: 1.0;
+}
+  p.big {
+  line-height: 1.8;
+}
+  </style>
+<span style="font-family=: 'Avenir Next'; color: #606060; font-size: 10px;"><b>Legal Disclaimer &nbsp;</b>|<b>&nbsp; Confidentiality</b></span>
+</font></span></div><div style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; -webkit-text-stroke-color: rgb(166, 166, 166);"><span class="s1" style="font-kerning: none;"><font color="#929292">             <span class="brmedium"></span>
+This email, along with any attachments, is intended exclusively for the addressee(s) and may contain confidential and privileged information concerning data protection matters. If you are not the intended recipient or have received this email in error, kindly notify the sender immediately and remove it from your system. Unauthorized disclosure, copying, distribution, or reliance on the contents of this email is strictly prohibited.</font></span></div>
+<span class="br"></span>
+<div style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; -webkit-text-stroke-color: rgb(166, 166, 166);"><span class="s1" style="font-kerning: none;"><font color="#929292">Please be aware that the information provided in this communication is solely for informational purposes and does not constitute legal advice or establish an attorney-client relationship unless a separate written agreement has been established. The content of this email is tailored to address specific legal matters within our area of expertise. For comprehensive legal advice, we recommend contacting our firm directly to discuss your specific situation.</font></span></div>
+<span class="br"></span><div style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; -webkit-text-stroke-color: rgb(166, 166, 166);"><span class="s1" style="font-kerning: none;"><font color="#929292">While we have taken utmost care to ensure the accuracy and completeness of this email, we disclaim any liability for unauthorized access, disclosure, copying, or alteration of its contents, as well as any errors or omissions. We advise against sending sensitive or confidential information via email, as we cannot guarantee the security and confidentiality of electronic communications. Our firm assumes no responsibility for any consequences arising from viruses or malware that may be present in this email or any attachments. The recipient is responsible for scanning this communication for malicious content.</font></span></div>
+<span class="br"></span><div style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; -webkit-text-stroke-color: rgb(166, 166, 166);"><span class="s1" style="font-kerning: none;"><font color="#929292">Any personal data or sensitive information shared without a valid legal basis or explicit consent may be deleted and not stored or used in any manner. Rest assured that we adhere to strict data protection and privacy practices, and it is our commitment to respect and protect the confidentiality of your personal information.</font></span></div>
+<span class="br"></span><div style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; -webkit-text-stroke-color: rgb(166, 166, 166);"><span class="s1" style="font-kerning: none;"><font color="#929292">Please note that any views or opinions expressed in this email are those of the sender and do not necessarily reflect the views or opinions of our firm.The sender reserves the right to unilaterally discontinue communication with the recipient at any juncture, irrespective of prior notice, in accordance with the professional discretion of the firm.</font></span></div>
+<span class="br"></span><div style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal; -webkit-text-stroke-color: rgb(166, 166, 166);"><span class="s1" style="font-kerning: none;"><font color="#929292">If you have any further inquiries or need clarification on the content of this email, please contact us directly using the official&nbsp;<span dir="ltr"><a href="mailto:info@davioslawfirm.com">contact information</a></span> provided. Additionally, should you have any specific questions or concerns regarding data privacy, the handling of personal information / data management procedures, or our data protection policies, we kindly request that you contact us at our designated&nbsp;<span dir="ltr"><a href="mailto:privacy@davioslawfirm.com">point of contact</a></span> for matters pertaining to privacy.
+    
